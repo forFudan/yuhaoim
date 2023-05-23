@@ -162,15 +162,15 @@ nav_order: 2
 
 碼表因其格式，可以通用於多種平臺。以下爲幾種主要格式的介紹：
 
-- 宇碼  空格  字符，UTF-8。此爲[百度格式](https://github.com/forFudan/yuhaoim/tree/main/mabiao/baidu/)，適用於百度輸入法、搜狗輸入法、清歌輸入法。加上表頭後，也適用於小小輸入法、微軟輸入法、Fcitx輸入法。
-- 字符  Tab  宇碼，UTF-8。此爲[落格格式](https://github.com/forFudan/yuhaoim/tree/main/mabiao/luoge/)，適用於羅格輸入法、小胖輸入法。加上表頭後，也適用於RIME輸入法。
-- 宇碼  Tab  字符，UTF-8。此爲[大竹格式](https://github.com/forFudan/yuhaoim/tree/main/mabiao/dazhu/)，適用於大竹詞提生成。
+- 宇碼  空格  字符，UTF-8。此爲百度格式，適用於百度輸入法、搜狗輸入法、清歌輸入法。加上表頭後，也適用於小小輸入法、微軟輸入法、Fcitx輸入法。
+- 字符  Tab  宇碼，UTF-8。此爲落格格式，適用於羅格輸入法、小胖輸入法。加上表頭後，也適用於RIME輸入法。
+- 宇碼  Tab  字符，UTF-8。此爲大竹格式，適用於大竹詞提生成。
 
 ### 百度/搜狗手機輸入法
 
 百度手機輸入法掛載碼表方法如下：
 
-- 將 [此文件夾下](https://github.com/forFudan/yuhaoim/tree/main/mabiao/baidu/) 的**yuhao.txt**下載到設備上
+- 將 baidu 文件夾下的**yuhao.txt**下載到設備上
 - 進入百度輸入法 iOS 版
 - 點擊「我的」
 - 點擊右上方設置按鈕
@@ -188,7 +188,7 @@ nav_order: 2
 
 安裝方法如下：
 
-- 將 [此文件夾下](https://github.com/forFudan/yuhaoim/tree/main/mabiao/luoge/) 的**yuhao.txt**下載到電腦上。
+- 將 luoge 文件夾下的**yuhao.txt**下載到電腦上。
 - 進入輸入法程序。
 - 選擇「Wifi傳表」。
 - 將**yuhao.txt**傳入手機中。
@@ -196,12 +196,8 @@ nav_order: 2
 
 ### 小小輸入法
 
-小小輸入法碼表是[此文件夾下](https://github.com/forFudan/yuhaoim/tree/main/mabiao/yong/) 的**yuhao.txt**。
+小小輸入法碼表是 yong 文件夾下的**yuhao.txt**。
 
 ### 純單字全碼碼表
 
-純單字全碼碼表是[此文件夾下](https://github.com/forFudan/yuhaoim/tree/main/mabiao/purity/) 的**yuhao.txt**。
-
-<!-- ### 純單字全碼和簡碼碼表
-
-純單字全碼及簡碼碼表是[此文件夾下](https://github.com/forFudan/yuhaoim/tree/main/mabiao/chars/) 的**yuhao.txt**。 -->
+純單字全碼碼表是 purity 文件夾下的**yuhao.txt**。

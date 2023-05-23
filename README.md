@@ -1,16 +1,15 @@
-
 <!-- omit in toc -->
-# 宇浩輸入法官方網站倉庫·正體網站
+# 宇浩輸入法官方網站倉庫·正體中文版
 
 ```txt
-實用、直觀、科學、理性
+宇浩輸入法·傳統漢字简化汉字通打混輸·兼容大陸台灣字形標準·全漢字覆蓋·八萬詞庫·科學高效
 ```
 
-點擊加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
+[简体版官方网站](https://zhuyuhao.com/yuhao/) | [正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim/)  
+[詳細教程](https://zhuyuhao.com/yuhaoim/docs/learn) | [在線拆分查詢](https://zhuyuhao.com/yuhaoim/chaifen)  
+[最常用100字根練習](https://zhuyuhao.com/yuhaoim/practice/practice_100) | [全部字根練習](https://zhuyuhao.com/yuhaoim/practice/practice) | [最常用漢字輸入練習](https://zhuyuhao.com/yuhaoim/practice/practice_characters)
 
-[官方網站](https://zhuyuhao.com/yuhaoim/) | [詳細教程](https://zhuyuhao.com/yuhaoim/docs/learn) | [在線拆分查詢](https://zhuyuhao.com/yuhaoim/chaifen)
-[最常用100字根練習](https://zhuyuhao.com/yuhaoim/practice/practice_100) | [全部字根練習](https://zhuyuhao.com/yuhaoim/practice/practice)
-[最常用漢字輸入練習](https://zhuyuhao.com/yuhaoim/practice/practice_characters)
+點擊加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
 
 「宇浩輸入法」是一款字形輸入法，由朱宇浩博士發明，具有以下特點：
 

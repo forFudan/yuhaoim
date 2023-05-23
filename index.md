@@ -20,7 +20,7 @@ nav_order: 1
 {: .highlight }
 >點擊加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)  
 >[v2.0.0-alpha免費下載（四重註解）](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.1) ·
->[简化字官方网站](https://zhuyuhao.com/yuhao)  
+>[簡化字版官方網站](https://zhuyuhao.com/yuhao)  
 >[快速指南](./docs/cookbook) ·
 >[詳細教程](./docs/learn) ·
 >[在線練習](./docs/practice) ·
@@ -41,7 +41,7 @@ nav_order: 1
 - 只使用25鍵，不使用Z鍵，手感好。中排、上排按鍵頻率都超過40%。最高頻的漢字一級簡碼位於最容易按的鍵上：`E的`、`F一`、`V了`、`I没`。
 - 線性的學習體驗，教程詳盡。在簡快碼的加持下，只用記住100個字根，就能基本輸入最常用的500個漢字，其他字根可以邊打邊學。
 
-![好](./image/好.png)
+![好](./image/漢字.png)
 
 [閲讀《快速入門指南》，十分鐘瞭解宇浩輸入法的基本規則。](./docs/cookbook)
 

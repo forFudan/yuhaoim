@@ -123,7 +123,7 @@ nav_order: 12
 
 所以，在接下來的學習中，請**務必**按照上面的次序記憶字根，而不是一股腦地背誦全部。先練熟*邊際收益*高的字根，會顯著加快上手打字的進程，增加學習樂趣和成就感。而偏僻的字根，可以等未來慢慢熟悉。
 
-[使用字根練習頁面來練習最常用的100個字根](https://zhuyuhao.com/yuhao/practice/practice_100.html)。
+[使用字根練習頁面來練習最常用的100個字根](https://zhuyuhao.com/yuhaoim/practice/practice_100.html)。
 
 ### 大碼和小碼
 <!-- {: .no_toc } -->

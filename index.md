@@ -19,8 +19,8 @@ nav_order: 1
 
 {: .highlight }
 >點擊加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)  
->[v2.0.0-alpha免費下載（四重註解）](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.1) ·
 >[簡化字版官方網站](https://zhuyuhao.com/yuhao)  
+>[v2.0.0-alpha免費下載（四重註解）](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.1)  
 >[快速指南](./docs/cookbook) ·
 >[詳細教程](./docs/learn) ·
 >[在線練習](./docs/practice) ·

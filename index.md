@@ -20,7 +20,7 @@ nav_order: 1
 {: .highlight }
 >點擊加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)  
 >[簡化字版官方網站](https://zhuyuhao.com/yuhao)  
->[v2.0.0-alpha免費下載（四重註解）](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.1)  
+>[v2.0.0-alpha.2免費下載（四重註解）](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.2)  
 >[快速指南](./docs/cookbook) ·
 >[詳細教程](./docs/learn) ·
 >[在線練習](./docs/practice) ·
@@ -47,7 +47,7 @@ nav_order: 1
 
 [點擊這裏，使用字根練習小程序，直接學習最常用的100個字根。](./practice/practice_100.html)兩個小時後，你就可以開始上手打字了。
 
-[![宇浩輸入法宋體字根圖](./image/宇浩输入法宋体字根图.png)](./image/宇浩输入法宋体字根图.png)
+[![宇浩輸入法宋體字根圖](https://zhuyuhao.com/yuhao/image/宇浩输入法宋体字根图v2.0.0.png)](./image/宇浩输入法宋体字根图v2.0.0.png)
 
 ## 特點
 

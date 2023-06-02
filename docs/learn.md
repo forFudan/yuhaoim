@@ -138,7 +138,7 @@ nav_order: 12
 
 字根圖是查詢字根的重要工具，初學者應當時常將它放在手邊，以利用查詢。以下爲宇浩輸入法全部字根的鍵位圖。繁體特有字根22個，都排在簡體字根後。
 
-[![宇浩輸入法宋體字根圖](https://zhuyuhao.com/yuhao/image/宇浩输入法宋体字根图v2.0.0.png)](./image/宇浩输入法宋体字根图v2.0.0.png)
+[![宇浩輸入法宋體字根圖](https://zhuyuhao.com/yuhao/image/宇浩输入法宋体字根图v2.0.0.png)](https://zhuyuhao.com/yuhao/image/宇浩输入法宋体字根图v2.0.0.png)
 
 ### 大碼和小碼
 <!-- {: .no_toc } -->

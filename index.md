@@ -47,7 +47,7 @@ nav_order: 1
 
 [點擊這裏，使用字根練習小程序，直接學習最常用的100個字根。](./practice/practice_100.html)兩個小時後，你就可以開始上手打字了。
 
-[![宇浩輸入法宋體字根圖](https://zhuyuhao.com/yuhao/image/宇浩输入法宋体字根图v2.0.0.png)](./image/宇浩输入法宋体字根图v2.0.0.png)
+[![宇浩輸入法宋體字根圖](https://zhuyuhao.com/yuhao/image/宇浩输入法宋体字根图v2.0.0.png)](https://zhuyuhao.com/yuhao/image/宇浩输入法宋体字根图v2.0.0.png)
 
 ## 特點
 

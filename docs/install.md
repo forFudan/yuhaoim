@@ -35,7 +35,7 @@ nav_order: 2
 
 ![四重註解](../image/四重注解.png)
 
-在安裝了 Rime（小狼毫、鼠須管、同文、iRime）後，[在這個頁面下載最新版本](https://github.com/forFudan/yuhaoim/releases)。 文件夾下的**所有文件**複製到**用户文件夾**下（可以右擊 Rime 圖標後點擊「用户文件夾」來打開）。點擊「部署」之後卽可使用。
+在安裝了 Rime（小狼毫、鼠須管、同文、iRime）後，[在這個頁面下載最新版本](https://github.com/forFudan/yuhao/releases)。 文件夾下的**所有文件**複製到**用户文件夾**下（可以右擊 Rime 圖標後點擊「用户文件夾」來打開）。點擊「部署」之後卽可使用。
 
 方案文件介紹：
 

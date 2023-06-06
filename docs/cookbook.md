@@ -60,7 +60,7 @@ nav_order: 11
 
 字根分佈圖和字根口訣如下：
 
-[![宇浩輸入法宋體字根圖](https://zhuyuhao.com/yuhao/image/宇浩输入法宋体字根图v2.0.0.png)](https://zhuyuhao.com/yuhao/image/宇浩输入法宋体字根图v2.0.0.png)
+[![宇浩輸入法宋體字根圖](https://zhuyuhao.com/yuhao/image/宇浩输入法宋体字根图v2olkb.png)](https://zhuyuhao.com/yuhao/image/宇浩输入法宋体字根图v2olkb.png)
 
 ## 單字編碼
 

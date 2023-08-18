@@ -26,7 +26,7 @@ nav_order: 1
 >[快速入门](./docs/cookbook) · 
 >[详细教程](./docs/learn) · 
 >[在线练习](./docs/practice) · 
->[更新日志](./docs/updates/updates) · 
+>[更新日志](/yuhao/docs/v2/updates) ·
 >[拆分查询(台湾字形支持)](./chaifen/)  
 
 ## 簡介
